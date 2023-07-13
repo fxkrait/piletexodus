@@ -1,3 +1,7 @@
+
+#+ATTR_ORG: :width 600
+[[file:.images/2023-07-12_23-56-47_screenshot.png]]
+
 * sechs002
 ** Stützen:
 - [ ] Aufrechterhalten Vipassana (2), and Dahintrotten (2).
