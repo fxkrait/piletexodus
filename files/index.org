@@ -1,0 +1,4 @@
+* Index:
+- [[file:sechs002.org]]
+- [[file:sechs001.org]]
+- [[file:sechs000.org]]
