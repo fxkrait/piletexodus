@@ -24,6 +24,7 @@
 - [X] Laugh and Enjoy Yourself a Little Bit
 - [X] Expert Bob and Weaving, and Redirection Skills.
 - [X] Ability to Turn a Dump into a Resort Town
+- [X] Stay Moving
 
 * Haus Residents:
 - [[file:sechs002.org]]
