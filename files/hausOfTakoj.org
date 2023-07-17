@@ -17,6 +17,7 @@
 - [X] No Drugs
 - [X] Organic Food Only
 - [X] Don't be a Brokie
+- [X] Don't be Stupid
 
 * Haus Residents:
 - [[file:sechs002.org]]
