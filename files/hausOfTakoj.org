@@ -6,14 +6,16 @@
 * Our Coat of Arms decoded
 - Constant unrelenting active rebellion against evil and the banal, and attonement towards the good, the just, and the vibrant.
 * Household rules
-- [ ] No Fap
-- [ ] No Otaku
-- [ ] Minimal Media
-- [ ] Maximal Action
-- [ ] Maximal Responsibility
-- [ ] C4 Explosives
-- [ ] Don't Be Fat
-- [ ] Don't Be a Victim
+- [X] No Fap
+- [X] No Otaku
+- [X] Minimal Media
+- [X] Maximal Action
+- [X] Maximal Responsibility
+- [X] C4 Explosives
+- [X] Don't Be Fat
+- [X] Don't Be a Victim
+- [X] No Drugs
+- [ ] Organic Food Only
 
 * Residents:
 - [[file:sechs002.org]]
