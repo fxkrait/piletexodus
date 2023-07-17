@@ -15,7 +15,7 @@
 - [X] Don't Be Fat
 - [X] Don't Be a Victim
 - [X] No Drugs
-- [ ] Organic Food Only
+- [X] Organic Food Only
 
 * Residents:
 - [[file:sechs002.org]]
