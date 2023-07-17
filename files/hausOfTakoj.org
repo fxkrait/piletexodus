@@ -18,7 +18,7 @@
 - [X] Organic Food Only
 - [X] Don't be a Brokie
 
-* Residents:
+* Haus Residents:
 - [[file:sechs002.org]]
 - [[file:sechs001.org]]
 - [[file:sechs000.org]]
