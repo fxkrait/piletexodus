@@ -16,6 +16,7 @@
 - [X] Don't Be a Victim
 - [X] No Drugs
 - [X] Organic Food Only
+- [X] Don't be a Brokie
 
 * Residents:
 - [[file:sechs002.org]]
