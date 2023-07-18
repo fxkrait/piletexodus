@@ -8,7 +8,7 @@ Don’t be heedless. Be watchful; be alert. While walking on alms round there ar
 #+end_quote
 
 
-* Vast Field of Sowing and Reaping:
+* Alms Round:
 - [[file:files/sechs002.org]]
 - [[file:files/sechs001.org]]
 - [[file:files/sechs000.org]]
