@@ -3,24 +3,9 @@
 The more I doubted, the more I meditated, the more I practiced. Wherever doubt arose, I practiced right at that point. Wisdom arose. Things began to change. It’s hard to describe the change that took place. The mind changed until there was no more doubt. I don’t know how it changed. If I were to try telling someone, they probably wouldn’t understand.
 #+end_quote
 
-#+begin_quote
-Those who don’t keep the vinaya or practice meditation and those who do practice can’t live together; they must go separate ways. I didn’t understand this myself in the past. As a teacher I taught others, but I didn’t practice. This is really bad. When I looked deeply into it, my practice and my knowledge were as far apart as earth and sky.
-#+end_quote
-
-#+begin_quote
-Those who have only practiced a little and then go to teach others are not yet ripe. They don’t really understand. In a short time they give up and it all falls apart.
-#+end_quote
-
-#+begin_quote
-Kāmasukhallikānuyoga —indulgence in sense pleasures and comfort—is a danger. We should strengthen our practice, exhort ourselves to do more, rectify whatever is faulty, and not get lost in externals.
-#+end_quote
 
 #+begin_quote
 One who has zeal never forgoes walking and sitting meditation, never lets up in the maintenance of restraint and composure. A monk who, having finished the meal, hung out his robes, and attended to any incidental business, then starts to do walking meditation—and when we pass by his kuṭı̄ we see his walking path is well worn—this monk is not bored with the practice. He is one who has effort, who has zeal.
-#+end_quote
-
-#+begin_quote
-If all of you devote yourselves like this to the practice, then not many problems will arise. If you don’t abide with the practice, the walking and sitting meditation, there’s nothing more than just traveling around. Not liking it here you go traveling over there; not liking it there you come touring back here. That’s all there is to it, following your noses everywhere. You don’t have to do a lot of traveling around; just stay here and develop the practice, learn it in detail. Make an effort, all of you.
 #+end_quote
 
 * Alms Round:
@@ -55,4 +40,24 @@ If other monks wanted to give me requisites, such as a bowl, razor, or whatever,
 
 #+begin_quote
 As a result, some of my fellow monks would look askance at me. “He doesn’t socialize, he won’t mix.” But I was unmoved. “Well, we can mix with one another when we die,” I thought, “for then we’re all in the same boat.” I lived with forbearance. I was one who spoke little. If others criticized my practice, I was unmoved. Why? Because even if I explained to them they wouldn’t understand. They knew nothing about practice. Like those times when I would be invited to a funeral ceremony and somebody would say, “Don’t listen to him! Just put the money in his bag and don’t say anything about it. Don’t let him know.”30 I would say, “Hey, do you think I’m dead or something? Just because one calls alcohol perfume doesn’t make it perfume, you know. But you people, when you want to drink alcohol you call it perfume, so go ahead and drink. You must be crazy!”
+#+end_quote
+
+#+begin_quote
+Those who don’t keep the vinaya or practice meditation and those who do practice can’t live together; they must go separate ways. I didn’t understand this myself in the past. As a teacher I taught others, but I didn’t practice. This is really bad. When I looked deeply into it, my practice and my knowledge were as far apart as earth and sky.
+#+end_quote
+
+#+begin_quote
+Those who have only practiced a little and then go to teach others are not yet ripe. They don’t really understand. In a short time they give up and it all falls apart.
+#+end_quote
+
+#+begin_quote
+Kāmasukhallikānuyoga —indulgence in sense pleasures and comfort—is a danger. We should strengthen our practice, exhort ourselves to do more, rectify whatever is faulty, and not get lost in externals.
+#+end_quote
+
+#+begin_quote
+If all of you devote yourselves like this to the practice, then not many problems will arise. If you don’t abide with the practice, the walking and sitting meditation, there’s nothing more than just traveling around. Not liking it here you go traveling over there; not liking it there you come touring back here. That’s all there is to it, following your noses everywhere. You don’t have to do a lot of traveling around; just stay here and develop the practice, learn it in detail. Make an effort, all of you.
+#+end_quote
+
+#+begin_quote
+Living in this way we rely on endurance, persevering in the face of all the defilements. Although this is good, it is still on the level of “practicing the Dhamma without having seen it.” If we have practiced the Dhamma and seen it, then whatever is wrong we will have already given up; whatever is useful we will have cultivated. Seeing this within ourselves, we experience a sense of well-being. No matter what others say, we know our own mind; we are not moved. We can be at peace anywhere. Now the younger monks and novices who have just begun to practice may think that the senior Ajahn doesn’t seem to do much walking or sitting meditation. Don’t imitate him in this. You should emulate, but not imitate. To emulate is one thing; to imitate another. The fact is that the senior Ajahn dwells within his own particular contented abiding. Even though he doesn’t seem to practice externally, he practices inwardly. Whatever is in his mind cannot be seen by the eye. The practice of Buddhism is the practice of the mind. Even though the practice may not be apparent in his actions or speech, the mind is a different matter.
 #+end_quote
