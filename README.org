@@ -3,7 +3,7 @@
 - Food for the Heart
 #+end_quote
 
-* Vast Fields of Sowing and Reaping:
+* Vast Field of Sowing and Reaping:
 - [[file:files/sechs002.org]]
 - [[file:files/sechs001.org]]
 - [[file:files/sechs000.org]]
