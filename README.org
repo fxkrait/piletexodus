@@ -1,6 +1,9 @@
-*Entrance:*
-- [[file:files/hausOfTakoj.org]]
+#+begin_quote
+"We must see clearly. Don’t get “born” into things; don’t fall into birth. Know the workings of birth. Such thoughts as, “Oh, I can’t stand that person, he does everything wrongly,” will no longer arise. Or, “I really like so-and-so.” These things don’t arise. There remain merely the conventional worldly standards of like and dislike. We must use the conventions of the world to communicate with each other, but inwardly we must be empty. This is the abiding of the Noble Ones. We must all aim for this and practice accordingly. Don’t get caught up in doubts."
+- Food for the Heart
+#+end_quote
 
-#+ATTR_ORG: :width 600
-[[file:.images/2023-07-12_23-56-47_screenshot_450x.png]]
-
+* Vast Fields of Sowing and Reaping:
+- [[file:files/sechs002.org]]
+- [[file:files/sechs001.org]]
+- [[file:files/sechs000.org]]
