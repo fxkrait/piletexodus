@@ -7,6 +7,11 @@ If there is no effort in the practice the mind will tend in that direction. You 
 Don’t be heedless. Be watchful; be alert. While walking on alms round there are all sorts of feelings arising, and it’s all good Dhamma. When you get back to the monastery and are eating your food there’s plenty of good Dhamma for you to look into. If you have constant effort, all these things will be objects for contemplation; wisdom will arise, and you will see the Dhamma. This is called Dhamma-vicaya, reflecting on Dhamma. It’s one of the Factors of Enlightenment. If we have mindfulness, we won’t simply take it easy, and there will also be inquiry into Dhamma.
 #+end_quote
 
+#+begin_quote
+The more I doubted, the more I meditated, the more I practiced. Wherever doubt arose, I practiced right at that point. Wisdom arose. Things began to change. It’s hard to describe the change that took place. The mind changed until there was no more doubt. I don’t know how it changed. If I were to try telling someone, they probably wouldn’t understand.
+#+end_quote
+
+
 * Alms Round:
 
 #+ATTR_ORG: :width 600
@@ -17,9 +22,6 @@ Don’t be heedless. Be watchful; be alert. While walking on alms round there ar
 - [[file:files/sechs000.org]]
 
 * Additional Quotes
-#+begin_quote
-The more I doubted, the more I meditated, the more I practiced. Wherever doubt arose, I practiced right at that point. Wisdom arose. Things began to change. It’s hard to describe the change that took place. The mind changed until there was no more doubt. I don’t know how it changed. If I were to try telling someone, they probably wouldn’t understand.
-#+end_quote
 
 #+begin_quote
 Actually, in terms of ultimate truth, it’s not necessary to go through the routine of confessing offenses. If we see that our mind is pure and there is no trace of doubt, then those offenses drop off right there. That we are not yet pure is because we still doubt; we still waver. We are not really pure, so we can’t let go. We don’t see ourselves—this is the point. This vinaya of ours is like a fence to guard us from making mistakes, so it’s something we need to be scrupulous with.
