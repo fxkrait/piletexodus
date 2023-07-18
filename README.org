@@ -11,6 +11,10 @@ Those who don’t keep the vinaya or practice meditation and those who do practi
 Those who have only practiced a little and then go to teach others are not yet ripe. They don’t really understand. In a short time they give up and it all falls apart.
 #+end_quote
 
+#+begin_quote
+Kāmasukhallikānuyoga —indulgence in sense pleasures and comfort—is a danger. We should strengthen our practice, exhort ourselves to do more, rectify whatever is faulty, and not get lost in externals.
+#+end_quote
+
 * Alms Round:
 
 #+ATTR_ORG: :width 600
