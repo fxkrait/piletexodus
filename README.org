@@ -12,7 +12,7 @@ Don’t be heedless. Be watchful; be alert. While walking on alms round there ar
 
 #+ATTR_ORG: :width 600
 [[file:.images/2023-07-18_00-09-06_screenshot.png]]
-
+- [[file:files/sechs003.org]]
 - [[file:files/sechs002.org]]
 - [[file:files/sechs001.org]]
 - [[file:files/sechs000.org]]
