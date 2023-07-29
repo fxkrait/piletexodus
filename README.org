@@ -1,5 +1,5 @@
 #+ATTR_ORG: :width 600
-[[file:.images/satiWithinSamsara.png]]
+[[file:.images/satiWithinSamsara2.png]]
 - [[file:files/sechs003.org]]
 - [[file:files/sechs002.org]]
 - [[file:files/sechs001.org]]
