@@ -1,4 +1,4 @@
-* Sati within Samsara:
+* Heedful over Heedless:
 #+ATTR_ORG: :width 600
 [[file:.images/satiWithinSamsara.png]]
 - [[file:files/sechs003.org]]
