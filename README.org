@@ -1,6 +1,6 @@
 * Sati within Samsara:
 #+ATTR_ORG: :width 600
-[[file:.images/2023-07-28_22-02-42_screenshot.png]]
+[[file:.images/satiWithinSamsara.png]]
 - [[file:files/sechs003.org]]
 - [[file:files/sechs002.org]]
 - [[file:files/sechs001.org]]
