@@ -5,6 +5,7 @@
 1. Habit Tracking
 2. Time Blocking
 3. Journaling
+   1. Gratitude
 4. Goal/Vision Setting
 #+end_quote
 
