@@ -1,6 +1,8 @@
 #+ATTR_ORG: :width 600
 [[file:.images/satiWithinSamsara.png]]
 
+*Formula for an exciting life:*
+
 #+begin_quote
 1. Habit Tracking
    1. Work Intevrals
