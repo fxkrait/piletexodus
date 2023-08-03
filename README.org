@@ -9,7 +9,7 @@
    1. Gratitude
    2. Reflection
 5. Goal/Vision Setting
-6. Mastermind
+6. [[https://en.wikipedia.org/wiki/Mastermind_group][Mastermind Group]]
 #+end_quote
 
 - [[file:files/sechs005.org]]
