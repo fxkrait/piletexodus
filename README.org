@@ -1,5 +1,13 @@
 #+ATTR_ORG: :width 600
 [[file:.images/satiWithinSamsara.png]]
+
+#+begin_quote
+1. Habit Tracking
+2. Time Blocking
+3. Journaling
+4. Goal/Vision Setting
+#+end_quote
+
 - [[file:files/sechs005.org]]
 - [[file:files/sechs004.org]]
 - [[file:files/sechs003.org]]
