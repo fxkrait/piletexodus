@@ -17,7 +17,7 @@
    2. Reflection
 5. Goal/Vision Setting
 6. [[https://en.wikipedia.org/wiki/Mastermind_group][Mastermind Group]]
-7. A note-taking, organizational system
+7. A note-taking, organizational system ([[https://github.com/vicrdguez/dendroam][dendroam]])
 #+end_quote
 
 - [[file:files/sechs005.org]]
