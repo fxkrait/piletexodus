@@ -1,7 +1,7 @@
 #+ATTR_ORG: :width 600
 [[file:.images/satiWithinSamsara.png]]
 
-*Formula for an exciting life:*
+*Formula for an exciting, non-slaveic life:*
 
 #+begin_quote
 1. Habit Tracking (Daily)
