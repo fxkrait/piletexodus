@@ -3,6 +3,11 @@
 
 #+begin_quote
 1. Habit Tracking
+   1. Work Intevrals
+   2. Exercise (Cardio)
+   3. Stretching (Yoga)
+   4. Cold Showers
+   5. Some deliberately creative, artistic, challenging activity (music/art/coding, etc)
 2. Time Blocking
 3. Task Tracking
 4. Journal
