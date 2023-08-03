@@ -5,7 +5,7 @@
 
 #+begin_quote
 1. Habit Tracking
-   1. Work Intevrals
+   1. Work Intervals
    2. Exercise (Cardio)
    3. Stretching (Yoga)
    4. Cold Water (Showers)
