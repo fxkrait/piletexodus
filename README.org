@@ -3,12 +3,13 @@
 
 #+begin_quote
 1. Habit Tracking
-1. Time Blocking
-1. Task Tracking
-1. Journal
+2. Time Blocking
+3. Task Tracking
+4. Journal
    1. Gratitude
-   1. Reflection
-1. Goal/Vision Setting
+   2. Reflection
+5. Goal/Vision Setting
+6. Mastermind
 #+end_quote
 
 - [[file:files/sechs005.org]]
