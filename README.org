@@ -33,7 +33,7 @@
 
 ----------
 
-*My Habit Tracking:*
+*My Habit Trackings:*
 
 - [[file:files/sechs005.org]]
 - [[file:files/sechs004.org]]
