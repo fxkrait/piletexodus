@@ -23,11 +23,13 @@
 7. Only exceptions to the above, are if you're on [[https://kunja.dhamma.org/][retreat]], but hold to it as much as you can.
 #+end_quote
 
-Optional:
+Optional Additions:
 
 #+begin_quote
 1. [[https://en.wikipedia.org/wiki/Mastermind_group][Mastermind Group]]
 #+end_quote
+
+----------
 
 - [[file:files/sechs005.org]]
 - [[file:files/sechs004.org]]
