@@ -18,8 +18,9 @@
    1. Gratitude
    2. Reflection
 5. Goal/Vision Setting
-7. A note-taking, organizational system ([[https://github.com/vicrdguez/dendroam][dendroam]])
-8. Only exceptions to the above, are if you're on [[https://kunja.dhamma.org/][retreat]], but hold to it as much as you can.
+6. A note-taking, organizational system ([[https://github.com/vicrdguez/dendroam][dendroam]])
+   1. Ingest content that stimulates you, challenges you, and expands your boundaries, based on your interests. And take some notes on it, and think about the ideas as needed.
+7. Only exceptions to the above, are if you're on [[https://kunja.dhamma.org/][retreat]], but hold to it as much as you can.
 #+end_quote
 
 Optional:
