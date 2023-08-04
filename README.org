@@ -18,9 +18,14 @@
    1. Gratitude
    2. Reflection
 5. Goal/Vision Setting
-6. [[https://en.wikipedia.org/wiki/Mastermind_group][Mastermind Group]]
 7. A note-taking, organizational system ([[https://github.com/vicrdguez/dendroam][dendroam]])
 8. Only exceptions to the above, are if you're on [[https://kunja.dhamma.org/][retreat]], but hold to it as much as you can.
+#+end_quote
+
+Optional:
+
+#+begin_quote
+1. [[https://en.wikipedia.org/wiki/Mastermind_group][Mastermind Group]]
 #+end_quote
 
 - [[file:files/sechs005.org]]
