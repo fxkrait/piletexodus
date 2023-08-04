@@ -25,7 +25,7 @@
 7. Only exceptions to the above, are if you're on [[https://kunja.dhamma.org/][retreat]], but hold to it as much as you can.
 #+end_quote
 
-Optional Additions:
+*Optional Additions:*
 
 #+begin_quote
 1. [[https://en.wikipedia.org/wiki/Mastermind_group][Mastermind Group]]
