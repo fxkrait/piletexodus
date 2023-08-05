@@ -6,7 +6,7 @@
 #+begin_quote
 1. Habit Tracking (Daily)
    1. Work Intervals (Pomodoro)
-   2. Exercise (Cardio)
+   2. Exercise (Cardio, however strength training is associated with longetivity)
    3. Stretching (Yoga)
    4. Cold Water (Showers)
       1. Improves immune system, psychological resillience, increases serotonin, aids in recovery.
