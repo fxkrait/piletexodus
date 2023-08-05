@@ -14,7 +14,7 @@
       1. Detox + Heart Health
    6. Meditation (Vipassana, sitting [[https://en.wikipedia.org/wiki/Seiza][seiza]] bench)
    7. Some deliberately creative, artistic, challenging, and stimulating activity (music/art/coding, etc)
-2. Time Blocking
+2. Time Blocking ([[https://github.com/ichernyshovvv/org-timeblock][org-timeblock]])
 3. Task Tracking
 4. Journal
    1. Gratitude
