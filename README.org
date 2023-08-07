@@ -44,9 +44,4 @@
 
 *My Habit Trackings:*
 
-- [[file:files/sechs005.org]]
-- [[file:files/sechs004.org]]
-- [[file:files/sechs003.org]]
-- [[file:files/sechs002.org]]
-- [[file:files/sechs001.org]]
-- [[file:files/sechs000.org]]
+- [[file:files/sechs000<->005.org]]
