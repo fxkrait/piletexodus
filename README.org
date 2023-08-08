@@ -5,7 +5,9 @@
 [[file:.images/stormTheWalls.gif]]
 
 
-[[file:.audio/test190.wav]]
+[[file:.audio/test190-edited.mp3]]
+
+[[file:.audio/test190-edited.ogg]]
 
 *(My) Formula for an exciting, non-slaveic, heedful life:*
 
