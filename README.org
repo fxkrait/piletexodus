@@ -21,7 +21,7 @@ https://github.com/greghab/piletexodus/assets/7407672/28a71a5e-79a6-49a2-8e2a-f3
    6. Meditation (Vipassana, sitting [[https://en.wikipedia.org/wiki/Seiza][seiza]] bench)
    7. Some deliberately creative, artistic, challenging, and stimulating activity (music/art/coding, etc)
 2. Time Blocking ([[https://github.com/ichernyshovvv/org-timeblock][org-timeblock]])
-3. Task Tracking
+3. Task Tracking ([[https://orgmode.org/][Org Mode]])
 4. Journal
    1. Gratitude
    2. Reflection
