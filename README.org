@@ -9,6 +9,9 @@
 
 [[file:.audio/test190-edited.ogg]]
 
+
+[[file:.audio/test190-edited.mp4]]
+
 *(My) Formula for an exciting, non-slaveic, heedful life:*
 
 #+begin_quote
