@@ -1,7 +1,8 @@
 #+ATTR_ORG: :width 600
 [[file:.images/satiWithinSamsara.png]]
 
-[[file:.images/stormTheWalls-small.gif]]
+
+[[file:.images/stormTheWalls.gif]]
 
 *(My) Formula for an exciting, non-slaveic, heedful life:*
 
