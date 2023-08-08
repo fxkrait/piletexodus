@@ -1,6 +1,8 @@
 #+ATTR_ORG: :width 600
 [[file:.images/satiWithinSamsara.png]]
 
+[[file:.images/stormTheWalls-small.gif]]
+
 *(My) Formula for an exciting, non-slaveic, heedful life:*
 
 #+begin_quote
@@ -47,8 +49,3 @@
 - [[file:files/sechs000-005.org]]
 
 
-
-[[https://thumbs.gfycat.com/SaltyCheerfulHen-max-1mb.gif]]
-
-
-[[file:.images/stormTheWalls.gif]]
