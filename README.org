@@ -4,6 +4,9 @@
 
 [[file:.images/stormTheWalls.gif]]
 
+
+[[file:.audio/test190.wav]]
+
 *(My) Formula for an exciting, non-slaveic, heedful life:*
 
 #+begin_quote
