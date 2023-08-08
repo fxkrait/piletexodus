@@ -4,13 +4,7 @@
 
 [[file:.images/stormTheWalls.gif]]
 
-
-[[file:.audio/test190-edited.mp3]]
-
-[[file:.audio/test190-edited.ogg]]
-
-
-[[file:.audio/test190-edited.mp4]]
+https://github.com/greghab/test-md/assets/7407672/66214e1b-d8ea-4b9c-a285-e948d44f65de
 
 *(My) Formula for an exciting, non-slaveic, heedful life:*
 
