@@ -2,9 +2,10 @@
 [[file:.images/satiWithinSamsara.png]]
 
 
+[[file:.images/monk-optimized.gif]]
+
 [[file:.images/stormTheWalls.gif]]
 
-[[file:.images/monk-optimized.gif]]
 
 https://github.com/greghab/piletexodus/assets/7407672/c5c7011b-233f-4de8-af2e-d892c93d74c8
 
