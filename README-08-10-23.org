@@ -1,4 +1,7 @@
 #+ATTR_ORG: :width 600
+[[file:.images/satiWithinSamsara.png]]
+
+#+ATTR_ORG: :width 600
 [[file:.images/annas-hummingbird-wa.jpg]]
 
 #+begin_quote
