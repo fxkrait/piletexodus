@@ -14,7 +14,7 @@ osho-san: "What remains with you boys, if we take away your appetite for sex and
 
 disciples: "osho-san, what is the benefit of practicing zazen?"
 
-osho-san: "Even if you practice zazen, it comes to nething."
+osho-san: "Even if you practice zazen, it comes to nothing."
 
 disciples: "osho-san, we have come to practice a zazen that will bring us no benefit."
 #+end_quote
