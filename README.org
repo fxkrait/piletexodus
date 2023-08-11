@@ -9,6 +9,8 @@
 "There is no advantage to being exceptional."
 
 "We should not behave differently than the community of monks."
+
+"A person who has the will to seek the truth, and who has the intention to throw away fame and profit, can enter the way. A person who does not sincerely seek the truth, should not be allowed to enter. If there are some who are not sincere, and have been admitted by mistake, we should, after consideration, make them leave. We should notice that if we have the will to follow the truth, we will become free from fame and profit."
 - Dogen
 #+end_quote
 
