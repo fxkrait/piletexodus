@@ -5,6 +5,8 @@
 
 #+begin_quote
 "There is no advantage to being exceptional."
+
+"We should not behave differently than the community of monks."
 - Dogen
 #+end_quote
 
