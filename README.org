@@ -1,3 +1,11 @@
+*My Habit Trackings:*
+
+- [[file:files/sechs006-011.org]]
+- [[file:files/sechs000-005.org]]
+
+
+----------
+
 #+ATTR_ORG: :width 600
 [[file:.images/notes-from-the-road-hummingbird.jpg]]
 
@@ -68,13 +76,4 @@ https://github.com/greghab/piletexodus/assets/7407672/5082bff8-3e48-4493-8e36-72
 - B12
 - Almond Milk + Raw Cacao (antioxidants)
 - Spirulina
-
-
-----------
-
-*My Habit Trackings:*
-
-- [[file:files/sechs006-011.org]]
-- [[file:files/sechs000-005.org]]
-
 
