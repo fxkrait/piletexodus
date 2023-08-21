@@ -7,4 +7,4 @@
 ---------
 
 #+ATTR_ORG: :width 600
-[[file:.images/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014-500x.jpg]]
+[[file:.images/bird_belvedere_500x.jpg]]
