@@ -9,3 +9,6 @@
 [test91.1-0.75x.webm](https://github.com/greghab/piletexodus/assets/7407672/4cc5d360-990c-42b4-8c64-a04387856ac7)
 
 [test192.webm](https://github.com/greghab/piletexodus/assets/7407672/5082bff8-3e48-4493-8e36-7244b5875f14)
+
+
+[RazSimoneBullshit_TonyRobbinsAwakenTheGiantWithin.webm](https://github.com/greghab/piletexodus/assets/7407672/15a61901-11c4-488b-b4e1-dda6fb009bce)
