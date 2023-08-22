@@ -1,10 +1,13 @@
+#+ATTR_ORG: :width 600
+[[file:.images/ARomanCourtyardTheSchoolofKarlFriedrichSchinkel.jpg]]
+
+https://github.com/greghab/piletexodus/assets/7407672/15a61901-11c4-488b-b4e1-dda6fb009bce
+
+---------
+
 *My Habit Trackings:*
 
 - [[file:files/sechs006-011.org]]
 - [[file:files/sechs000-005.org]]
 
 
----------
-
-#+ATTR_ORG: :width 600
-[[file:.images/ARomanCourtyardTheSchoolofKarlFriedrichSchinkel.jpg]]
